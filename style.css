@@ -1,8 +1,6 @@
 
 body{
   font-family: Alcotton;
-  margin:0;
-  padding: 0;
 }
 
 @font-face{
@@ -17,7 +15,6 @@ src: url('Squad-Trial-Light.ttf');
 width: 100%;
 display: flex;
 justify-content: center;
-margin: 0 5px 5px 5px;
 }
 
 .inner{
