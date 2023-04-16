@@ -25,7 +25,8 @@ justify-content: center;
   margin:0;
   text-align: center;
   padding: 0 10px 0 10px;
-  width:50%;
+  width:100%;
+  max-width: 600px;
   display: block;
 }
 .h4{
@@ -42,8 +43,5 @@ hr{
 @media only screen and (max-width: 780px) {
   body{
     font-size: 13px;
-  }
-  .inner{
-    width: 80%;
   }
 }
