@@ -1,3 +1,3 @@
 # Pasha
 
-Cringe anecdote here https://eraaalex.github.io/Pasha/
+Cringe joke here https://eraaalex.github.io/Pasha/
